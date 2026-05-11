@@ -1,6 +1,6 @@
 # ================================================================
 # PROJECT 2: CUSTOMER CHURN PREDICTION — TELECOM
-# Author  : [Your Name]
+# Author  : Gaurav Chavan
 # Tools   : Python (Pandas, Scikit-learn, SciPy, Matplotlib)
 # Dataset : 7,043 telecom customer records with 20 features
 # ================================================================

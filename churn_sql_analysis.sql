@@ -1,7 +1,7 @@
 -- ================================================================
 -- PROJECT 2: CUSTOMER CHURN ANALYSIS — SQL QUERIES
--- Author  : [Your Name]
--- Tool    : SQLite or MySQL
+-- Author  : Gaurav Chavan
+-- Tool    : MySQL
 -- Dataset : telecom_churn.csv → import as table named: customers
 -- ================================================================
 
